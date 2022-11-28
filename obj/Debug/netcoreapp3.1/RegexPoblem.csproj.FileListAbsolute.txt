@@ -1,0 +1,14 @@
+E:\bridgelab\RegexPoblem\bin\Debug\netcoreapp3.1\RegexPoblem.exe
+E:\bridgelab\RegexPoblem\bin\Debug\netcoreapp3.1\RegexPoblem.deps.json
+E:\bridgelab\RegexPoblem\bin\Debug\netcoreapp3.1\RegexPoblem.runtimeconfig.json
+E:\bridgelab\RegexPoblem\bin\Debug\netcoreapp3.1\RegexPoblem.runtimeconfig.dev.json
+E:\bridgelab\RegexPoblem\bin\Debug\netcoreapp3.1\RegexPoblem.dll
+E:\bridgelab\RegexPoblem\bin\Debug\netcoreapp3.1\RegexPoblem.pdb
+E:\bridgelab\RegexPoblem\obj\Debug\netcoreapp3.1\RegexPoblem.csproj.AssemblyReference.cache
+E:\bridgelab\RegexPoblem\obj\Debug\netcoreapp3.1\RegexPoblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\RegexPoblem\obj\Debug\netcoreapp3.1\RegexPoblem.AssemblyInfoInputs.cache
+E:\bridgelab\RegexPoblem\obj\Debug\netcoreapp3.1\RegexPoblem.AssemblyInfo.cs
+E:\bridgelab\RegexPoblem\obj\Debug\netcoreapp3.1\RegexPoblem.csproj.CoreCompileInputs.cache
+E:\bridgelab\RegexPoblem\obj\Debug\netcoreapp3.1\RegexPoblem.dll
+E:\bridgelab\RegexPoblem\obj\Debug\netcoreapp3.1\RegexPoblem.pdb
+E:\bridgelab\RegexPoblem\obj\Debug\netcoreapp3.1\RegexPoblem.genruntimeconfig.cache

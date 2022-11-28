@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRG8AP2MI1Jsw66XmxR2QeWp+92awCjyzIym8SWaQ5emJvx04gcvLFuwFnPZQfAAUem5bJ4F7/JJREK+5KqIWw==",
+  "success": true,
+  "projectFilePath": "E:\\bridgelab\\RegexPoblem\\RegexPoblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Faizan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
